@@ -1,6 +1,6 @@
-Swagger Link -> http://localhost:8080/swagger-ui/index.html
+Swagger UI -> http://localhost:8080/swagger-ui/index.html
 
-Örnek Response
+Örnek Request Body
 
 "presentationInfos": [
         "Architecting Your Codebase 60min",
